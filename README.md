@@ -20,4 +20,7 @@ El OnePlus Nord N200 está equipado con varios sensores que le permiten brindar 
 
 8. **Sensor de Presión (Pressure Sensor):** El sensor de presión mide la presión atmosférica y se utiliza en aplicaciones relacionadas con la altitud y la meteorología.
 
-Estos sensores trabajan juntos para mejorar la experiencia de uso de tu OnePlus Nord N200 y permiten una variedad de funciones y características interesantes.
+Estos sensores trabajan juntos para mejorar la experiencia de uso de un OnePlus Nord N200 y permiten una variedad de funciones y características interesantes.
+
+
+Garcia Torres Omar 20210567
